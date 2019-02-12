@@ -621,10 +621,13 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManagePvtRptsAndDashbds</name>
+
+        <name>ManagePropositions</name>
+  <name>ManagePvtRptsAndDashbds</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageRecommendationStrategies</name>
         <name>ManageRemoteAccess</name>
     </userPermissions>
     <userPermissions>
